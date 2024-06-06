@@ -18,6 +18,7 @@
 
 [link target=*tag_sleep] →寝る [endlink][r]
 [link target=*tag_run] →走る [endlink][r]
+[link target=*tag_fiercerun] →激走する [endlink][r]
 [s]
 
 *tag_sleep
@@ -42,5 +43,24 @@
 陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
 
 【 GOOD END 】[l][cm]
+
+[jump target=*start]
+
+*tag_fiercerun
+
+[bg storage=run.jpg time=500]
+
+[cm]
+メロスは黒い風のように走った。[l][r]
+
+陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、切り株に足をひっかけた。膝を骨折した。[l][r][r][r]
+
+[bg storage=fiercerun.jpg time=500]
+
+もう二度と歩くことがなかった…[r][l]
+
+…[r]…[r]…[r]
+
+【 SUPER BAD END 】[l][cm]
 
 [jump target=*start]
